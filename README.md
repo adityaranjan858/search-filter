@@ -4,6 +4,10 @@
 
 Search Filter Application is a simple React-based web application that allows users to search for fruits from a predefined list. It provides instant feedback by filtering the fruit names in real-time as the user types in the search box. This project demonstrates fundamental concepts of React, including state management, controlled components, and event handling.
 
+## Demo Link
+https://adityaranjan858.github.io/search-filter/
+
+
 ## Features
 
 - **Real-time Search**: As the user types, the list of fruits dynamically updates to show matches based on the input.
